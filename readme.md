@@ -35,7 +35,7 @@ Mi Proyecto final en Henry
 [Ver video en YouTube](https://www.youtube.com/watch?v=TFum54FvwY4)
 
 Puedes ver mis Certificaciones: 
-- [Data Science](https://certificates.soyhenry.com/new-cert?id=75b573dcf982d20514db5d1492773a0603f53c1909fdf033d0e64117c5fa47a9)
+- [Data Scientist](https://certificates.soyhenry.com/new-cert?id=75b573dcf982d20514db5d1492773a0603f53c1909fdf033d0e64117c5fa47a9)
 - [Scrum Foundation Professional Certificate](https://drive.google.com/file/d/1yZfn9AlCoZhCUwJxENi66978AyyZG0R5/view).
 - [Inglés B2](https://www.efset.org/cert/1YCJJ5)
 
