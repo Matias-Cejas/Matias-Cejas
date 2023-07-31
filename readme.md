@@ -24,13 +24,12 @@
 - **gary71184@gmail.com**
 
 
-
-📄 Soy Técnico Superior en Programación (UTN) y me especialice como Data Engineer en el bootcamp Soy Henry.
-Tengo experiencia trabajando con tecnologias como VB.Net, Python, Power BI, Streamlit, SQL, BigQuery, Google Cloud Plataform (GCP).
-Realice varios proyectos de modo freelance, lo que me llevo a adquirir ciertas habilidades como el análisis de problemas, adaptabilidad, pensamiento lógico y perseverancia.
-Mis proyectos más importantes fueron en la Facultad de Psicología de Córdoba donde se realizón aplicaciones para relevar el patrimonio de la facultad y obtener distintos dasboards para la toma de desiciones
-Mi objetivo actual es seguir indagando en el mundo de los datos, progresando y aprendiendo paso a paso y lograr trabajar de lo que me gusta y apasiona.
-Y como dijo el filósofo chino Confucio “Elije un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.”
+📄 Soy Técnico Superior en Programación (UTN) y me especialicé como Data Engineer en el bootcamp Soy Henry.  
+Tengo experiencia trabajando con tecnologías como VB.Net, Python, Power BI, Streamlit, SQL, BigQuery, Google Cloud Platform (GCP).  
+Realicé varios proyectos de modo freelance, lo que me llevó a adquirir ciertas habilidades como el análisis de problemas, adaptabilidad, pensamiento lógico y perseverancia.  
+Mis proyectos más importantes fueron en la Facultad de Psicología de Córdoba donde se realizaron aplicaciones para relevar el patrimonio de la facultad y obtener distintos dashboards para la toma de decisiones.  
+Mi objetivo actual es seguir indagando en el mundo de los datos, progresando y aprendiendo paso a paso y lograr trabajar de lo que me gusta y apasiona.  
+Y como dijo el filósofo chino Confucio: “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.”
 
 
 Mi Proyecto final en Henry 
