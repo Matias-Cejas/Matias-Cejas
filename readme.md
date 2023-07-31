@@ -31,9 +31,13 @@ Mis proyectos más importantes fueron en la Facultad de Psicología de Córdoba 
 Mi objetivo actual es seguir indagando en el mundo de los datos, progresando y aprendiendo paso a paso y lograr trabajar de lo que me gusta y apasiona.  
 Y como dijo el filósofo chino Confucio: “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.”
 
-
 Mi Proyecto final en Henry 
 [Ver video en YouTube](https://www.youtube.com/watch?v=TFum54FvwY4)
+
+Puedes ver mis Certificaciones: 
+- [Data Science](https://certificates.soyhenry.com/new-cert?id=75b573dcf982d20514db5d1492773a0603f53c1909fdf033d0e64117c5fa47a9)
+- [Scrum Foundation Professional Certificate](https://drive.google.com/file/d/1yZfn9AlCoZhCUwJxENi66978AyyZG0R5/view).
+- [Inglés B2](https://www.efset.org/cert/1YCJJ5)
 
 
 
