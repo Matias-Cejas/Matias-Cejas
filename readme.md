@@ -25,7 +25,7 @@ Mis proyectos más importantes fueron en la Facultad de Psicología de Córdoba 
 Mi objetivo actual es seguir indagando en el mundo de los datos, progresando y aprendiendo paso a paso y lograr trabajar de lo que me gusta y apasiona.  
 Y como dijo el filósofo chino Confucio: “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.”
 
-- <a href="https://drive.google.com/file/d/1Lla_8_CD-XB8MnofRnikgiBt-4p4Fw8M/view?usp=sharing" target="_blank" rel="noreferrer">**Mi Curriculum**</a>
+- <a href="https://drive.google.com/file/d/1CwVo3o6w1hkxphN_tZnviJw1hfuqEWcf/view?usp=sharing" target="_blank" rel="noreferrer">**Mi Curriculum**</a>
 - <a href="https://www.linkedin.com/in/matias-cejas71184/" target="_blank" rel="noreferrer">**Mi perfil de LinkedIn**</a>
 - **gary71184@gmail.com**
 
