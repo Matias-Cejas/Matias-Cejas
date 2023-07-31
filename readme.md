@@ -26,15 +26,10 @@
 
 
 📄 Soy Técnico Superior en Programación (UTN) y me especialice como Data Engineer en el bootcamp Soy Henry.
-
 Tengo experiencia trabajando con tecnologias como VB.Net, Python, Power BI, Streamlit, SQL, BigQuery, Google Cloud Plataform (GCP).
-
 Realice varios proyectos de modo freelance, lo que me llevo a adquirir ciertas habilidades como el análisis de problemas, adaptabilidad, pensamiento lógico y perseverancia.
-
 Mis proyectos más importantes fueron en la Facultad de Psicología de Córdoba donde se realizón aplicaciones para relevar el patrimonio de la facultad y obtener distintos dasboards para la toma de desiciones
-
 Mi objetivo actual es seguir indagando en el mundo de los datos, progresando y aprendiendo paso a paso y lograr trabajar de lo que me gusta y apasiona.
-
 Y como dijo el filósofo chino Confucio “Elije un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.”
 
 
@@ -43,10 +38,6 @@ Mi Proyecto final en Henry
 
 
 
-<style>
-  p {
-    margin: 0.05em 0; /* Ajusta el valor para cambiar el espacio vertical entre párrafos */
-  }
-</style>
+
 
 
